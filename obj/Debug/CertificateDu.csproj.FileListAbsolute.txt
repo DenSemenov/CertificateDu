@@ -1,0 +1,16 @@
+c:\users\denis\documents\visual studio 2013\Projects\CertificateDu\CertificateDu\bin\Debug\CertificateDu.exe.config
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\bin\Debug\CertificateDu.exe
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\bin\Debug\CertificateDu.pdb
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu.csprojResolveAssemblyReference.cache
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\MainWindow.baml
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\MainWindow.g.cs
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\App.g.cs
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu_MarkupCompile.cache
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu.g.resources
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu.Properties.Resources.resources
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu.csproj.GenerateResource.Cache
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu.exe
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu.pdb
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\Panel.baml
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\Panel.g.cs
+c:\Users\Denis\Documents\Visual Studio 2013\Projects\CertificateDu\CertificateDu\obj\Debug\CertificateDu.csproj.ResolveComReference.cache
